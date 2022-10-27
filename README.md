@@ -1,5 +1,6 @@
 # tp1_c.cpp
 # tp1_c
-#j'ai jamais utiliser Github pour importer les 3 autres fichier text0.txt et text1.txt et l'output
 # Etudiant Foura Abdelghani 
-# Master 1 SSI 
+# Master 1 SSI
+#j'ai fait qlq recherche bien sur sur le fonctionement de cosin et d'autres fonction pour bien comprendre le fonctionement de mon programme et je peut le faire facilement   
+# Merci 
